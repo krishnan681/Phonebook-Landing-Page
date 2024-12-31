@@ -237,7 +237,7 @@
     .banner_section .app_btn li:last-child {margin-left: 0;}
     .banner_section .app_btn li {margin: 0 15px;}
     .banner_section .app_btn li a {padding: 10px 20px;}
-    .banner_section .app_btn li a img {height: 25px;}
+    .banner_section .app_btn li a img {height: 31px;}
     .banner_section .banner_slider .left_icon {left: -40px;}
     .banner_section .banner_slider .right_icon {right: -40px; z-index: 1000;}
     .banner_section .banner_slider::before {width: 350px; height: 350px;}
