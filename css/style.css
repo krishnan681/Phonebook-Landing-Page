@@ -119,7 +119,7 @@ body {
     line-height: 1.7;
     font-family: 'Poppins', sans-serif;
     color: black;
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 .page_wrapper {
@@ -906,7 +906,7 @@ header.fixed .navbar {
     transform: translate(-50%, -50%);
     width: 500px;
     height: 500px;
-    background-color: var(--bg-white);
+    background-color: tomato;
     border-radius: 100%;
     z-index: -1;
 }
@@ -1614,12 +1614,20 @@ iframe#youtubevideo {
 
 /* interface wraper */
 .interface_section .screen_slider {
+     
     margin-top: 35px;
     min-height: 720px;
 }
 
+.owl-stage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* interface images */
 .interface_section .owl-item .screen_frame_img img {
+     
     transform: scale(.9);
     border: 2px solid #000;
     border-radius: 20px;
