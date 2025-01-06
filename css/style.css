@@ -906,7 +906,7 @@ header.fixed .navbar {
     transform: translate(-50%, -50%);
     width: 500px;
     height: 500px;
-    background-color: tomato;
+    background-color: #ff6347;
     border-radius: 100%;
     z-index: -1;
 }
@@ -1244,12 +1244,14 @@ header.fixed .navbar {
     position: relative;
     display: block;
     margin-bottom: 40px;
+    top: 5vh;
 }
 
 .how_it_works .yt_video .thumbnil a .play_btn img {
     width: 50px;
     position: relative;
     z-index: 999;
+    left: 5px;
 }
 
 /* how it works video model   */
@@ -1306,7 +1308,7 @@ iframe#youtubevideo {
 }
 
 #close-video {
-    color: #fff;
+    color: #ff0000;
     font-size: 30px;
 }
 
