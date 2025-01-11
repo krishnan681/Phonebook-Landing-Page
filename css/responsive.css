@@ -309,7 +309,7 @@
 
     /* faq section */
     .faq_section .faq_panel .card-header h2 {text-align: left;}
-    .faq_section .faq_panel .card-header .btn {font-size: 16px; padding-right: 30px; text-align: left;}
+    .faq_section .faq_panel .card-header .btn {font-size: 14px; padding-right: 150px; text-align: left;}
     .faq_section .faq_panel .card-body p {text-align: left;}
 
     /* interface section */
